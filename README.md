@@ -122,4 +122,5 @@ lessons you struggled with below:
 
 ### Introduction to Basic HTML and HTML5
 **Define the Head and Body of an HTML Document**
-- 
+- I remember learning on my own how to set the page in a basic way. The new thing added here was the <head> had to be wrapped around the title. so not difficult.
+
