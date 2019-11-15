@@ -62,4 +62,8 @@ lessons you struggled with below:
 
 ### Introduction to Basic HTML and HTML5
 **Make Dead Links Using the Has Symbol**
-- 
+- Using the dead link was understandable. The only question i had was do you also remove the Target_blank setion after that as well or do you just replace it with the #.
+
+### Introduction to Basic HTML and HTML5
+**Turn an image into a link**
+-
