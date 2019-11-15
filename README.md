@@ -106,4 +106,5 @@ lessons you struggled with below:
 
 ### Introduction to Basic HTML and HTML5
 **Create a Set of Checkboxes**
-- 
+- Figuring out where to put the value attribute wasnt hard. I however kept Capitsalizing the values on the last end and that is what was getting me.
+
