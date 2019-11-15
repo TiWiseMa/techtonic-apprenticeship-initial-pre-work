@@ -124,3 +124,6 @@ lessons you struggled with below:
 **Define the Head and Body of an HTML Document**
 - I remember learning on my own how to set the page in a basic way. The new thing added here was the <head> had to be wrapped around the title. so not difficult.
 
+### Basic CSS
+**Change the Color of Text**
+- 
