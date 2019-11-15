@@ -14,8 +14,8 @@ title, and fill out your answers under the
 lessons you struggled with below:
 ### Introduction to Basic HTML and HTML5
 **Say Hello to HTML Elements**
-- saying heelo was simple as long as you remember your opening and closings tags! <> or </> example <h1>Hello World!</h1> this will allow you to see only Hello World! in the browser.
+- Creating an HTML was easy, the more or less confusing part for me was if we needed to create another html file for this lesson and other lessons like we did for the <hello-world.html> above the readME.md
 
 ### Introduction to Basic HTML and HTML5
-**Nest an Anchor Element within a Paragraph**
+**Say Hello to HTML Elements**
 - 
