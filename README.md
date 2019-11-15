@@ -51,3 +51,11 @@ lessons you struggled with below:
 ### Introduction to Basic HTML and HTML5
 **Link to External Pages with Anchor Elements**
 - This was fairly easy. I did forget to make the closing tag for the anchor but when i remembered it and put it in everything worked out.
+
+### Introduction to Basic HTML and HTML5
+**Link to Internal Sections of a Page with Anchor Elements**
+- 
+
+### Introduction to Basic HTML and HTML5
+**Nest an Anchor Element within a Paragraph**
+- 
