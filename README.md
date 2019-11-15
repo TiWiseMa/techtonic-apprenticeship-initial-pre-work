@@ -90,3 +90,4 @@ lessons you struggled with below:
 
 ### Introduction to Basic HTML and HTML5
 **Add a Submit Button to a Form**
+-When doing a submit button to a form i was confused at exactly where within the form do we put it. I tried the end and the beginning and that didn't work. i did look at the video and it kinda made sense. at least up to adding text after the button type. Why does that need to be there? is it become the type is just what kind of buttion it is but the action to doing it is with the words?
