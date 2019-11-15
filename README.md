@@ -94,4 +94,8 @@ lessons you struggled with below:
 
 ### Introduction to Basic HTML and HTML5
 **Use HTML5 to Require a Field**
--This is easy you just place required after your input type and close it off >. This will ensure that someone must fill out the form before hitting submit other wise it won't let you continue.
+- This is easy you just place required after your input type and close it off >. This will ensure that someone must fill out the form before hitting submit other wise it won't let you continue.
+
+### Introduction to Basic HTML and HTML5
+**Create a set of Radio Buttons**
+- 
