@@ -60,3 +60,6 @@ lessons you struggled with below:
 **Nest an Anchor Element within a Paragraph**
 - This was a bit challenging to me. i understand the anchor but adding it within a new paragraph was challenging a bit. I had at first forgotten to add in the website and then to close it > then thought i might need to put an anchor in it alt. so i watched the video for a little help and it turned out to be much simpler. i just had to start a new paragraph and then leave the original anchor where it was at and then just put the closing paragraph tag on.
 
+### Introduction to Basic HTML and HTML5
+**Make Dead Links Using the Has Symbol**
+- 
