@@ -119,3 +119,7 @@ lessons you struggled with below:
 ### Introduction to Basic HTML and HTML5
 **Declare the Doctype pf an HTML Document**
 - This was kind of like a refresher for me. I already knew how to do this part so it was good to practice it again.
+
+### Introduction to Basic HTML and HTML5
+**Define the Head and Body of an HTML Document**
+- 
