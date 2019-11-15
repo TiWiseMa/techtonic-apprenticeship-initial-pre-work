@@ -98,4 +98,4 @@ lessons you struggled with below:
 
 ### Introduction to Basic HTML and HTML5
 **Create a set of Radio Buttons**
-- 
+- I struggled a bit with this one. I was confused hwere to put it and how to wrap an input element inside of a label element and creating two labels to nest in door and outdoor into. I really had a hard time with each of your two radio button elements should be nested in its own label element. when i read it i thought it had to go somewhere after input. after taking a break and thinking about and reading the instructions again i leaved that ment i had to first create a <label> then the next line would for the input, type, and name then close the label and do this two times one for indoor and one for outdoor.
