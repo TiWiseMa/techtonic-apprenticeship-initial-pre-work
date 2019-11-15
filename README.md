@@ -78,4 +78,4 @@ lessons you struggled with below:
 
 ### Introduction to Basic HTML and HTML5
 **Create a Text Field**
-- 
+- Text fields are where you use the input text for a website so other people who use the site can leave their input. text inuts are made by <input type="text">.
