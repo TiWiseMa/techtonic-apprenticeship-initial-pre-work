@@ -47,3 +47,7 @@ lessons you struggled with below:
 ### Introduction to Basic HTML and HTML5
 **Add Images to Your Website**
 - I had a hard time understading what to put as an alt. do we put anything there? past that it was easy putting in the image since i knew we needed to go below the heading we would just put it below the main tag.
+
+### Introduction to Basic HTML and HTML5
+**Link to External Pages with Anchor Elements**
+- 
