@@ -67,3 +67,7 @@ lessons you struggled with below:
 ### Introduction to Basic HTML and HTML5
 **Turn an image into a link**
 - This simple since we already know how to put an image in we just have to insert a dead link anchor before the image one and make sure that we close the anchor.
+
+### Introduction to Basic HTML and HTML5
+**Create a Bulleted Unordered List**
+- Unordered lists just means that the items will have a bullet point. Unordered lists start with <ul> and close with </ul> li are the items in the list.
