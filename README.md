@@ -105,9 +105,9 @@ lessons you struggled with below:
 - It is similar to the Radio buttons. I was able to figure out how to apply this one much easier to get the checkboxes.
 
 ### Introduction to Basic HTML and HTML5
-**Create a Set of Checkboxes**
+**Use the value attribute with Radio Buttons and Checkboxes**
 - Figuring out where to put the value attribute wasnt hard. I however kept Capitsalizing the values on the last end and that is what was getting me.
 
 ### Introduction to Basic HTML and HTML5
-**Create a Set of Checkboxes**
-- 
+**Check Radio Buttons and Checkboxes by Default**
+- This wasn't difficult to figure out. You just add checked to the end of the name within the input.
