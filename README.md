@@ -36,3 +36,6 @@ lessons you struggled with below:
 **Comment out HTML**
 - This did trick me a little bit. I had it confused with the Uncomment one at first but then with a little hint I remembered that you had to end it and start it two different times to ensure you did not Comment h1.
 
+### Introduction to Basic HTML and HTML5
+**Delete HTML Elements**
+- Deleting Elements such as the h1 is easy. just highlight the h1 and delete it.
