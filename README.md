@@ -102,4 +102,4 @@ lessons you struggled with below:
 
 ### Introduction to Basic HTML and HTML5
 **Create a Set of Checkboxes**
-- 
+- It is similar to the Radio buttons. I was able to figure out how to apply this one much easier to get the checkboxes.
