@@ -71,3 +71,7 @@ lessons you struggled with below:
 ### Introduction to Basic HTML and HTML5
 **Create a Bulleted Unordered List**
 - Unordered lists just means that the items will have a bullet point. Unordered lists start with <ul> and close with </ul> li are the items in the list.
+
+### Introduction to Basic HTML and HTML5
+**Create am Ordered List**
+- This is similar to Unordered Lists except Ordered will give the items (li) a number such as 1. 2. 3. ect. when doing ordered lists you start the opening tag with <ol> and end it with the closing tag</ol>.
