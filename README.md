@@ -54,7 +54,7 @@ lessons you struggled with below:
 
 ### Introduction to Basic HTML and HTML5
 **Link to Internal Sections of a Page with Anchor Elements**
-- 
+- In this one i though that we had to get rif of the href and then input the #footer. however if you get rid of the href it doesn't work so i figured out that you have to take the extra text out to put the href=#footer and then change the text to Jump Down. The end is where i got a little confused i thouhgt we had to take out <footer> but it turns out we leave that there and then next to that is where we put the id = then "footer".
 
 ### Introduction to Basic HTML and HTML5
 **Nest an Anchor Element within a Paragraph**
