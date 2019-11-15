@@ -83,3 +83,7 @@ lessons you struggled with below:
 ### Introduction to Basic HTML and HTML5
 **Add Placeholder Text to a Text Field**
 - When adding placeholder texts to a text field you place it after the input and remember to close it>
+
+### Introduction to Basic HTML and HTML5
+**Create a Form Element**
+-
