@@ -17,5 +17,5 @@ lessons you struggled with below:
 - Creating an HTML was easy, the more or less confusing part for me was if we needed to create another html file for this lesson and other lessons like we did for the <hello-world.html> above the readME.md
 
 ### Introduction to Basic HTML and HTML5
-**Say Hello to HTML Elements**
-- 
+**Headline with the h2 element**
+- This is similar to the h1 the only difference is h2 is usually a type of sub title while h1 is usually a title. <title> is different from a title heading. a <title> is what connects web servers to find your website easier.
