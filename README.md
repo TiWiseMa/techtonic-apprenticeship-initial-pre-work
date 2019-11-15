@@ -43,3 +43,7 @@ lessons you struggled with below:
 ### Introduction to Basic HTML and HTML5
 **Intro to HTML5 Elements**
 - After learning how to put main elements in, this was not hard to figure out. The Main tag helps to make the HTML easier to read and more accessible and easier to find.
+
+### Introduction to Basic HTML and HTML5
+**Add Images to Your Website**
+- 
