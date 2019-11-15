@@ -114,5 +114,8 @@ lessons you struggled with below:
 
 ### Introduction to Basic HTML and HTML5
 **Nest Many Elements within a Single div Element**
--This one was also easy you just put the div opening above the first p and the closing below the ol for both paragraphs.
+- This one was also easy you just put the div opening above the first p and the closing below the ol for both paragraphs.
 
+### Introduction to Basic HTML and HTML5
+**Declare the Doctype pf an HTML Document**
+- 
