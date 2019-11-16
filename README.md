@@ -126,4 +126,4 @@ lessons you struggled with below:
 
 ### Basic CSS
 **Change the Color of Text**
-- 
+- Changing the color seems pretty simple. just have to make sure that i don't end the " marks too soon.
