@@ -127,3 +127,7 @@ lessons you struggled with below:
 ### Basic CSS
 **Change the Color of Text**
 - Changing the color seems pretty simple. just have to make sure that i don't end the " marks too soon.
+
+### CSS Grid
+**Use CSS Grid units to Change the size of columns and Rows**
+- I struggled a bit with this one. I input everything as directed but still couldn't get it to work. Apparently i had to take the auto off. So when do we use auto?
