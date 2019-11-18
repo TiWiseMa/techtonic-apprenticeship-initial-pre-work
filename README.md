@@ -131,3 +131,7 @@ lessons you struggled with below:
 ### CSS Grid
 **Use CSS Grid units to Change the size of columns and Rows**
 - I struggled a bit with this one. I input everything as directed but still couldn't get it to work. Apparently i had to take the auto off. So when do we use auto?
+
+### CSS Grid
+**Limit Item Size Using the minmax Function**
+- I had a little difficulty with this one only because i did not know i had to close the () at the end twice. but after looking at it, it made sense to do so since there was ( reat 3,) minmax(90px, 1 fr) which would show that it would need an additional ) ending to make it work.
