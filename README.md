@@ -135,3 +135,7 @@ lessons you struggled with below:
 ### CSS Grid
 **Limit Item Size Using the minmax Function**
 - I had a little difficulty with this one only because i did not know i had to close the () at the end twice. but after looking at it, it made sense to do so since there was ( reat 3,) minmax(90px, 1 fr) which would show that it would need an additional ) ending to make it work.
+
+### CSS Grid
+**Limit Item Size Using the minmax Function**
+- This one was confusing to understand."When the viewport width is 400px or more, (i understand this part) make the header area occupy the top row completely and the footer area occupy the bottom row compeletly. This last part is where i had a hard time i thouhgt that some kind of percentage had to go here but in this example it just ment that it shouldnt say 'advert header' it should say 'header header'.
