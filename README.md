@@ -152,3 +152,7 @@ var myStr = "I am a \"double quoted\"string inside \"double quotes\".";
 ### Basic JavaScript
 **Escape Sequences in Strings**
 - I struggled with this one. I wasn't sure why at the end of the first line after the \n\t why it needed a backslash on it.or how to start it off at first. I thoght i would just do var myStr "FirstLine..." ect. however once i read the different codes and took a look at what it should look like it made more sense.
+
+### Basic JavaScript
+**Concatenating Strings with Plus Operator**
+-
