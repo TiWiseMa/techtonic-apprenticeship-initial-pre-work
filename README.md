@@ -143,3 +143,8 @@ lessons you struggled with below:
 ### CSS Grid
 **Limit Item Size Using the minmax Function**
 -  This one is another one i really struggled with. I had no clue where to start. i had to google this to understand it. just from the text alone i did not realize i had to use var code first and i had no idea where i would put the display since other lessons we would do the display first not last. This was challenging but in the end i understand the order of how to put this now.
+
+### Basic JavaScript
+**Escaping Literal Quotes in Strings**
+-  This one was very confusing because of how many "" and () \ you have to use. My first attempt looked like this and i had a hard time figuring out what else i was missing.
+var myStr = "I am a \"double quoted\"string inside \"double quotes\"."; 
