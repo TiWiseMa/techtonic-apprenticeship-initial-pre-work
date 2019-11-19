@@ -148,3 +148,7 @@ lessons you struggled with below:
 **Escaping Literal Quotes in Strings**
 -  This one was very confusing because of how many "" and () \ you have to use. My first attempt looked like this and i had a hard time figuring out what else i was missing.
 var myStr = "I am a \"double quoted\"string inside \"double quotes\"."; 
+
+### Basic JavaScript
+**Escape Sequences in Strings**
+- I struggled with this one. I wasn't sure why at the end of the first line after the \n\t why it needed a backslash on it.or how to start it off at first. I thoght i would just do var myStr "FirstLine..." ect. however once i read the different codes and took a look at what it should look like it made more sense.
