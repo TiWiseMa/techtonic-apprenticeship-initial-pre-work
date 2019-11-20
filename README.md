@@ -156,3 +156,7 @@ var myStr = "I am a \"double quoted\"string inside \"double quotes\".";
 ### Basic JavaScript
 **Concatenating Strings with Plus Operator**
 - i don't understand why there has to be a space before closing the first set of parentheses? It was very confusing to figure out that was all i needed to do was add a space so it would look like var myStr = "This is the Start. "
+
+### Basic JavaScript
+**Passing Values to Functions with Arguments**
+-  I had a difficult time with this one, mainly with the set up. I wasn't sure if i had to do the push. function again. I also didn't know if i had to add or subtract and as far as the last function with numbers was i able to choose any numbers or did it have to be a set? Why does there even need to be a last function after the {}.
