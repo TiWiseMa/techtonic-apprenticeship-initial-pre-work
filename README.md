@@ -160,3 +160,7 @@ var myStr = "I am a \"double quoted\"string inside \"double quotes\".";
 ### Basic JavaScript
 **Passing Values to Functions with Arguments**
 -  I had a difficult time with this one, mainly with the set up. I wasn't sure if i had to do the push. function again. I also didn't know if i had to add or subtract and as far as the last function with numbers was i able to choose any numbers or did it have to be a set? Why does there even need to be a last function after the {}.
+
+### Basic JavaScript
+**Stand in Line**
+-  This section was confusing in general, i wasn't sure how to set it up or even what it ment by the array will take on a number item.
