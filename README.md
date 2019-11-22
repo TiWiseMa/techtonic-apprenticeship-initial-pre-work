@@ -164,3 +164,7 @@ var myStr = "I am a \"double quoted\"string inside \"double quotes\".";
 ### Basic JavaScript
 **Stand in Line**
 -  This section was confusing in general, i wasn't sure how to set it up or even what it ment by the array will take on a number item.
+
+### Basic JavaScript
+**Golf Code**
+- When doing this exercise i at firs thought i knew and understood how to do it but after attempting it several times i was confused and had to google it, the parts i didn't understad was if i had to use any type of var before the "Hole in one" number or if i had to use == or || or ===.
