@@ -168,3 +168,7 @@ var myStr = "I am a \"double quoted\"string inside \"double quotes\".";
 ### Basic JavaScript
 **Golf Code**
 - When doing this exercise i at firs thought i knew and understood how to do it but after attempting it several times i was confused and had to google it, the parts i didn't understad was if i had to use any type of var before the "Hole in one" number or if i had to use == or || or ===.
+
+### Basic JavaScript
+**Counting Cards**
+- I struggled with this one alot! I wasn't sure how to set it up completely and i am not familiar with Blackjack or counting cards. It made a little sense but the 2-6 i thouhgt had to return 5 not 1 so definately a challenge for me.
