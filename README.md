@@ -176,3 +176,7 @@ var myStr = "I am a \"double quoted\"string inside \"double quotes\".";
 ### Basic JavaScript
 **Generate Random Fractions with JavaScript**
 - I had a hard time with the concept and layout of this one. I didn't understand what value to return or how to get it become a decimal.
+
+### Basic JavaScript
+**Use the parseInt Function**
+- At first i thought each one had to have their own seperate thing, so i put it as convertToInteger = parseInt("56). This worked at first for the first set but not for any others, so i had to get a little hint of exactly what i needed. It made sense to put it as return parseInt(str). because we need to return whatever comes from the str. so if its 56, then it should return 56 and so on.
