@@ -174,5 +174,5 @@ var myStr = "I am a \"double quoted\"string inside \"double quotes\".";
 - I struggled with this one alot! I wasn't sure how to set it up completely and i am not familiar with Blackjack or counting cards. It made a little sense but the 2-6 i thouhgt had to return 5 not 1 so definately a challenge for me.
 
 ### Basic JavaScript
-**Counting Cards**
+**Generate Random Fractions with JavaScript**
 - I had a hard time with the concept and layout of this one. I didn't understand what value to return or how to get it become a decimal.
